@@ -4,6 +4,7 @@
     echo "Natnaree";
     echo "doremon";
     echo "pencil";
+    echo "color";
     echo "MUT";
     echo "fahsai";
     echo "mee";
